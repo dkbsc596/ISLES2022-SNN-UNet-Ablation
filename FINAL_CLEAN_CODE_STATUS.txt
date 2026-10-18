@@ -1,0 +1,50 @@
+============================================================
+FINAL CLEAN CODE STATUS
+============================================================
+
+Project:
+stroke_3d_snn1_xai
+
+Directory:
+publication_code_clean/
+
+Python source files:
+14
+
+Syntax audit:
+PASS
+
+Syntax errors:
+0
+
+Training scripts:
+A0_train.py                  PASS
+A1_train.py                  PASS
+A2_train.py                  PASS
+A3_train.py                  PASS
+
+Supporting scripts:
+common_patientwise.py        PASS
+
+Publication scripts:
+create_master_publication_results.py       PASS
+create_publication_tables.py               PASS
+create_publication_figures.py               PASS
+create_additional_publication_figures.py    PASS
+create_qualitative_publication_figure.py    PASS
+
+Evaluation / efficiency:
+energy_efficiency_analysis.py               PASS
+final_checkpoint_smoke_test.py             PASS
+final_internal_heldout_evaluation.py       PASS
+final_publication_consistency_audit.py     PASS
+
+Final clean code status:
+PASS
+
+No training performed during syntax audit.
+No checkpoint modified during syntax audit.
+No prediction modified during syntax audit.
+No publication result modified during syntax audit.
+
+============================================================

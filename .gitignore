@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.ipynb_checkpoints/
+
+# Data
+*.nii
+*.nii.gz
+*.npz
+*.npy
+data/
+dataset/
+preprocessed/
+
+# Model checkpoints and outputs
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+results/
+logs/
+runs/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
